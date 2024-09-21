@@ -43,6 +43,7 @@ main{
     color: white;
     font-family: roboto, sans-serif;
     font-size: 16px;
+    text-align: center;
     background-color: #111b47;
     border-radius: 2px;
     width: 190px;
@@ -55,6 +56,7 @@ main{
     color: #091133;
     font-family: roboto, sans-serif;
     font-size: 16px;
+    text-align:center;
     background-color: #ffffff;
     border: 3px solid #091133;
     width: 190px;
